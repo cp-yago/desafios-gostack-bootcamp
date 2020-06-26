@@ -12,12 +12,14 @@
 O GoStack é um treinamento online, prático e intensivo, no formato de bootcamp. No GoStack o aluno vai a fundo nas tecnologias NodeJS, ReactJS e React Native, e todo o ecossistema ao redor dessas ferramentas, do zero ao deploy. 
 
 ### Desafios
-- [02 - Conceitos de Node.js](/01-desafio-gostack-conceitos-nodejs)
 
-- [03 - Conceitos de ReactJS](/02-desafio-gostack-conceitos-reactjs)
+- [01 - Conceitos de Node.JS](/01-desafio-gostack-conceitos-nodejs)
 
-- [04 - Conceitos de React Native](/03-desafio-gostack-conceitos-react-native)
+- [02 - Conceitos de ReactJS](/02-desafio-gostack-conceitos-reactjs)
 
+- [03 - Conceitos de React Native](/03-desafio-gostack-conceitos-react-native)
+
+- [04 - Primeiro projeto em Node.JS](/04-desafio-gostack-primeiro-projeto-nodejs)
 
 ### Como executar os testes? 🖥
  - Clonar [esse repositório](https://github.com/cp-yago/desafios-gostack-bootcamp), 
