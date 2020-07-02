@@ -21,6 +21,8 @@ O GoStack é um treinamento online, prático e intensivo, no formato de bootcamp
 
 - [04 - Primeiro projeto em Node.JS](/04-desafio-gostack-primeiro-projeto-nodejs)
 
+- [05 - Database Upload](/05-desafio-gostack-database-upload)
+
 ### Como executar os testes? 🖥
  - Clonar [esse repositório](https://github.com/cp-yago/desafios-gostack-bootcamp), 
  - No terminal executar o comando `cd <challenge_folder>`, e `yarn` para instalar as dependencias, 
