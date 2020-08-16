@@ -25,7 +25,9 @@ O GoStack é um treinamento online, prático e intensivo, no formato de bootcamp
 
 - [06 - Fundamentos React JS - Github Explorer](/05-desafio-gostack-fundamentos-reactjs)
 
-- [07 - Fundamentos React JS - Github Explorer](/07-desafio-gostack-fundamentos-react-native)
+- [07 - Fundamentos React Native](/07-desafio-gostack-fundamentos-react-native)
+
+- [08 - TypeORM Relations](/08-desafio-gostack-typeorm-relations)
 
 ### Como executar os testes? 🖥
  - Clonar [esse repositório](https://github.com/cp-yago/desafios-gostack-bootcamp), 
