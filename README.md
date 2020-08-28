@@ -29,6 +29,8 @@ O GoStack é um treinamento online, prático e intensivo, no formato de bootcamp
 
 - [08 - TypeORM Relations](/08-desafio-gostack-typeorm-relations)
 
+- [09 - GoRestaurant Web](/09-desafio-gostack-gorestaurant-web)
+
 ### Como executar os testes? 🖥
  - Clonar [esse repositório](https://github.com/cp-yago/desafios-gostack-bootcamp), 
  - No terminal executar o comando `cd <challenge_folder>`, e `yarn` para instalar as dependencias, 
