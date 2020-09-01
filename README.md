@@ -31,6 +31,8 @@ O GoStack é um treinamento online, prático e intensivo, no formato de bootcamp
 
 - [09 - GoRestaurant Web](/09-desafio-gostack-gorestaurant-web)
 
+- [10 - GoRestaurant App](/09-desafio-gostack-gorestaurant-app)
+
 ### Como executar os testes? 🖥
  - Clonar [esse repositório](https://github.com/cp-yago/desafios-gostack-bootcamp), 
  - No terminal executar o comando `cd <challenge_folder>`, e `yarn` para instalar as dependencias, 
